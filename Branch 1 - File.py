@@ -1,10 +1,10 @@
 
-# file that should only appear in the BRANCH 1
+# file that should only appear in the BRANCH 2
 
 
-def branch1():
-	print('branch1')
+def branch2():
+	print('branch2')
 
 
-branch1()
+branch2()
 
