@@ -12,5 +12,9 @@ def function_3():
 	print('added after BRANCH 1 was created ')
 
 
+def function_4():
+	print('ok')
+
+
 print_something('this')
 	
