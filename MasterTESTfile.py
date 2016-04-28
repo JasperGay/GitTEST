@@ -20,4 +20,3 @@ def function_5():
 	print('after BRANCH 2 was created')
 
 print_something('this')
-	
