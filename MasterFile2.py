@@ -3,3 +3,7 @@
 
 def function_1():
 	print('ok')
+
+
+def fucntion_2():
+	print('ok')
