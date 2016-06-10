@@ -28,4 +28,4 @@ def function_7():
 def function_8():
 	print('ok')
 
-print_something('this')
+print_something('sthElse')
