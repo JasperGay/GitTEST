@@ -32,3 +32,4 @@ def function_8():
 	print('ok')
 
 print_something('1')
+
