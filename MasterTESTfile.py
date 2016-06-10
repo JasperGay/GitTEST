@@ -20,5 +20,12 @@ def function_4():
 def function_5():
 	print('after BRANCH 2 was created')
 
+def function_7():
+	print('ok')
+	#after updating both BRANCH 1 & 2
+
+
+def function_8():
+	print('ok')
+
 print_something('this')
-	
