@@ -26,7 +26,7 @@ def function_6():
 def function_7():
 	print('ok')
 	#after updating both BRANCH 1 & 2
-	
+
 
 def function_8():
 	print('ok')
