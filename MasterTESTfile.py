@@ -31,4 +31,4 @@ def function_7():
 def function_8():
 	print('ok')
 
-print_something('sthElse')
+print_something('sthElse2')
